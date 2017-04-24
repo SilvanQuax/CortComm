@@ -12,3 +12,5 @@ Code is written in Matlab 2013a.
 Chronux version 2.11 is necessary for the analysis: 
 
 * [Chronux 2.11](http://chronux.org/)
+
+## Citation
